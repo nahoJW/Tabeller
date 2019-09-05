@@ -21,4 +21,3 @@ table#t01 tr:nth-child(3) {
 table#t01 tr:nth-child(4) {
   background-color: black;
 }
-colspan="2"{background-color:red;}
