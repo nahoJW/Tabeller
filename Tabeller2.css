@@ -18,6 +18,10 @@ table#t01 tr:nth-child(2) {
 table#t01 tr:nth-child(3) {
   background-color: green;
 }
-table#t01 tr:nth-child(4) {
-  background-color: black;
+.red {
+    background-color: red;
 }
+.black {
+    background-color: black;
+}
+
