@@ -10,16 +10,16 @@ th, td {
   text-align: left;
 }
 table#t01 tr:nth-child(1) {
-  background-color: blue;
+  background-color: #4999FF;
 }
 table#t01 tr:nth-child(2) {
-  background-color: yellow;
+  background-color: #F7EB00;
 }
 table#t01 tr:nth-child(3) {
-  background-color: green;
+  background-color: #5DFF00;
 }
 .red {
-    background-color: red;
+    background-color: #DC0000;
 }
 .black {
     background-color: black;
